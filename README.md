@@ -1,5 +1,5 @@
 # treasure Hunt 
-## 2D GAME 
+## Take a Hike a 2D GAME 
 find the treasure!!
 
 <img width="770" alt="Screen Shot 1444-02-11 at 3 31 24 AM" src="https://user-images.githubusercontent.com/62115527/188763228-07429b14-8e2a-4642-a7a8-7a81f8b27387.png">
